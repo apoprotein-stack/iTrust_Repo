@@ -1,0 +1,676 @@
+{
+  "repo": "iTrust_Repo",
+  "brand": "Rotciv 的生活手札543",
+  "total_episodes": 36,
+  "last_updated": "2025-07-31",
+  "phases": {
+    "1": {
+      "range": "P01-P12",
+      "description": "第一階段：基礎營養科普",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "title": "礦物質科普：鐵與鈣",
+          "category": "礦物質科普",
+          "content_type": "科普",
+          "hook": "鐵質：氧氣運輸與預防疲倦；鈣質：顧骨本與穩定神經肌肉",
+          "folder": "01_礦物質科普_鐵與鈣",
+          "has_content": true
+        },
+        {
+          "episode_number": 2,
+          "title": "維生素科普：維生素D與葉酸",
+          "category": "維生素科普",
+          "content_type": "科普",
+          "hook": "維生素D：免疫調節與情緒；葉酸：細胞分裂與預防神經管缺陷",
+          "folder": "02_維生素科普_維生素D與葉酸",
+          "has_content": true
+        },
+        {
+          "episode_number": 3,
+          "title": "蛋白質科普：優質蛋白質的隱藏版功效",
+          "category": "蛋白質科普",
+          "content_type": "科普",
+          "hook": "膠原蛋白原料、產後組織修復與肌膚彈性",
+          "folder": "03_蛋白質科普_優質蛋白質的隱藏版功效",
+          "has_content": true
+        },
+        {
+          "episode_number": 4,
+          "title": "礦物質深度：鎂與鋅",
+          "category": "礦物質深度",
+          "content_type": "深度",
+          "hook": "鎂：能量代謝(ATP)與舒緩PMS；鋅：DNA合成、免疫力與荷爾蒙平衡",
+          "folder": "04_礦物質深度_鎂與鋅",
+          "has_content": true
+        },
+        {
+          "episode_number": 5,
+          "title": "礦物質科普：碘與硒",
+          "category": "礦物質科普",
+          "content_type": "科普",
+          "hook": "碘：控制基礎代謝率與胎兒腦部發育；硒：保護甲狀腺免受氧化損傷",
+          "folder": "05_礦物質科普_碘與硒",
+          "has_content": true
+        },
+        {
+          "episode_number": 6,
+          "title": "維生素科普：維生素B群",
+          "category": "維生素科普",
+          "content_type": "科普",
+          "hook": "B6：舒緩PMS與孕吐；B12與B9：紅血球形成與能量轉換",
+          "folder": "06_維生素科普_維生素B群",
+          "has_content": true
+        },
+        {
+          "episode_number": 7,
+          "title": "蛋白質科普：植物性 vs 動物性",
+          "category": "蛋白質科普",
+          "content_type": "科普",
+          "hook": "動物性(完全蛋白質)與植物性(膳食纖維)的優缺點及互補吃法",
+          "folder": "07_蛋白質科普_植物性vs動物性",
+          "has_content": true
+        },
+        {
+          "episode_number": 8,
+          "title": "維生素深度：維生素C與抗氧化",
+          "category": "維生素深度",
+          "content_type": "深度",
+          "hook": "膠原蛋白組裝催化劑、中和自由基(ROS)、促進植物鐵質吸收",
+          "folder": "08_維生素深度_維生素C與抗氧化",
+          "has_content": true
+        },
+        {
+          "episode_number": 9,
+          "title": "礦物質科普：鉀與銅",
+          "category": "礦物質科普",
+          "content_type": "科普",
+          "hook": "鉀：擊退水腫、維持血壓；銅：合成黑色素(防白髮)與膠原蛋白交聯",
+          "folder": "09_礦物質科普_鉀與銅",
+          "has_content": true
+        },
+        {
+          "episode_number": 10,
+          "title": "維生素科普：維生素A與E",
+          "category": "維生素科普",
+          "content_type": "科普",
+          "hook": "維生素A：護眼明目與黏膜健康；維生素E：脂溶性抗老防護罩",
+          "folder": "10_維生素科普_維生素A與E",
+          "has_content": true
+        },
+        {
+          "episode_number": 11,
+          "title": "蛋白質科普：膠原蛋白與彈性蛋白",
+          "category": "蛋白質科普",
+          "content_type": "科普",
+          "hook": "膠原蛋白(鋼筋)的支撐力與彈性蛋白(彈簧)的回彈能力",
+          "folder": "11_蛋白質科普_膠原蛋白與彈性蛋白",
+          "has_content": true
+        },
+        {
+          "episode_number": 12,
+          "title": "蛋白質深度：BCAA支鏈胺基酸",
+          "category": "蛋白質深度",
+          "content_type": "深度",
+          "hook": "啟動肌肉合成(mTOR)、減少肌肉分解、延緩中樞神經疲勞",
+          "folder": "12_蛋白質深度_BCAA支鏈胺基酸",
+          "has_content": true
+        }
+      ]
+    },
+    "2": {
+      "range": "P13-P24",
+      "description": "第二階段：主題深化與生命週期切入",
+      "episodes": [
+        {
+          "episode_number": 13,
+          "title": "礦物質科普：鈣與鎂黃金比例",
+          "category": "礦物質科普",
+          "content_type": "科普",
+          "hook": "預防孕期抽筋，肌肉收縮(鈣)與放鬆(鎂)的平衡",
+          "folder": "13_礦物質科普_鈣與鎂黃金比例",
+          "has_content": true
+        },
+        {
+          "episode_number": 14,
+          "title": "維生素科普：維生素D與免疫力",
+          "category": "維生素科普",
+          "content_type": "科普",
+          "hook": "啟動免疫細胞，保護母體與胎兒的防護網",
+          "folder": "14_維生素科普_維生素D與免疫力",
+          "has_content": true
+        },
+        {
+          "episode_number": 15,
+          "title": "蛋白質科普：優質蛋白質與孕產",
+          "category": "蛋白質科普",
+          "content_type": "科普",
+          "hook": "產後傷口癒合與哺乳期營養支持",
+          "folder": "15_蛋白質科普_優質蛋白質與孕產",
+          "has_content": true
+        },
+        {
+          "episode_number": 16,
+          "title": "鐵質深度：孕期貧血機制",
+          "category": "鐵質深度",
+          "content_type": "深度",
+          "hook": "血紅素與儲鐵蛋白(鐵蛋白)的差異解析",
+          "folder": "16_鐵質深度_孕期貧血機制",
+          "has_content": true
+        },
+        {
+          "episode_number": 17,
+          "title": "礦物質科普：鋅與女性護理",
+          "category": "礦物質科普",
+          "content_type": "科普",
+          "hook": "強化黏膜免疫力，經後補鐵與私護健康",
+          "folder": "17_礦物質科普_鋅與女性護理",
+          "has_content": true
+        },
+        {
+          "episode_number": 18,
+          "title": "維生素科普：維生素E與抗老",
+          "category": "維生素科普",
+          "content_type": "科普",
+          "hook": "保護細胞膜的脂溶性抗老保鑣",
+          "folder": "18_維生素科普_維生素E與抗老",
+          "has_content": true
+        },
+        {
+          "episode_number": 19,
+          "title": "蛋白質科普：大豆異黃酮",
+          "category": "蛋白質科普",
+          "content_type": "科普",
+          "hook": "植物性雌激素溫和調節生理機能",
+          "folder": "19_蛋白質科普_大豆異黃酮",
+          "has_content": true
+        },
+        {
+          "episode_number": 20,
+          "title": "維生素深度：B群能量代謝",
+          "category": "維生素深度",
+          "content_type": "深度",
+          "hook": "粒線體與B群的ATP能量轉換機制",
+          "folder": "20_維生素深度_B群能量代謝",
+          "has_content": true
+        },
+        {
+          "episode_number": 21,
+          "title": "礦物質科普：鈣與鎂的神經穩定機制",
+          "category": "礦物質科普",
+          "content_type": "科普",
+          "hook": "天然鎮定劑，改善睡眠與舒緩焦慮",
+          "folder": "21_礦物質科普_鎂與神經放鬆",
+          "has_content": true
+        },
+        {
+          "episode_number": 22,
+          "title": "維生素科普：維生素B6與經前情緒",
+          "category": "維生素科普",
+          "content_type": "科普",
+          "hook": "幫助大腦合成快樂荷爾蒙，舒緩PMS",
+          "folder": "22_維生素科普_維生素B6與血清素",
+          "has_content": true
+        },
+        {
+          "episode_number": 23,
+          "title": "蛋白質科普：色胺酸與褪黑激素",
+          "category": "蛋白質科普",
+          "content_type": "科普",
+          "hook": "助眠胺基酸轉換過程",
+          "folder": "23_蛋白質科普_色胺酸與褪黑激素",
+          "has_content": true
+        },
+        {
+          "episode_number": 24,
+          "title": "礦物質深度：鈣鎂平衡與神經傳導",
+          "category": "礦物質深度",
+          "content_type": "深度",
+          "hook": "細胞內外鈣鎂離子通道的運作機制",
+          "folder": "24_礦物質深度_鈣鎂平衡與神經傳導",
+          "has_content": true
+        }
+      ]
+    },
+    "3": {
+      "range": "P25-P36",
+      "description": "第三階段：健康整合與科學挑選",
+      "episodes": [
+        {
+          "episode_number": 25,
+          "title": "礦物質科普：鐵質吸收阻礙",
+          "category": "礦物質科普",
+          "content_type": "科普",
+          "hook": "茶、咖啡與植酸如何影響礦物質吸收",
+          "folder": "25_礦物質科普_鐵質吸收阻礙",
+          "has_content": true
+        },
+        {
+          "episode_number": 26,
+          "title": "維生素科普：維生素D與腸道屏障",
+          "category": "維生素科普",
+          "content_type": "科普",
+          "hook": "維持腸道黏膜完整性，防護腸漏症",
+          "folder": "26_維生素科普_維生素D與腸道屏障",
+          "has_content": true
+        },
+        {
+          "episode_number": 27,
+          "title": "蛋白質科普：麩醯胺酸與腸道",
+          "category": "蛋白質科普",
+          "content_type": "科普",
+          "hook": "修復腸道黏膜的超級胺基酸",
+          "folder": "27_蛋白質科普_麩醯胺酸與腸道",
+          "has_content": true
+        },
+        {
+          "episode_number": 28,
+          "title": "綜合深度：微脂體與吸收技術",
+          "category": "綜合深度",
+          "content_type": "深度",
+          "hook": "提高脂溶性維生素吸收率的包覆技術",
+          "folder": "28_綜合深度_微脂體與吸收技術",
+          "has_content": true
+        },
+        {
+          "episode_number": 29,
+          "title": "礦物質科普：鋅與抗發炎",
+          "category": "礦物質科普",
+          "content_type": "科普",
+          "hook": "調節免疫細胞，降低體內慢性發炎",
+          "folder": "29_礦物質科普_鋅與抗發炎",
+          "has_content": true
+        },
+        {
+          "episode_number": 30,
+          "title": "維生素科普：維生素C與組織胺",
+          "category": "維生素科普",
+          "content_type": "科普",
+          "hook": "加速組織胺代謝，舒緩過敏反應",
+          "folder": "30_維生素科普_維生素C與組織胺",
+          "has_content": true
+        },
+        {
+          "episode_number": 31,
+          "title": "蛋白質科普：Omega-3與優質蛋白",
+          "category": "蛋白質科普",
+          "content_type": "科普",
+          "hook": "深海魚類蛋白質與好油的抗發炎協同效應",
+          "folder": "31_蛋白質科普_Omega-3與優質蛋白",
+          "has_content": true
+        },
+        {
+          "episode_number": 32,
+          "title": "綜合深度：抗氧化劑協同網絡",
+          "category": "綜合深度",
+          "content_type": "深度",
+          "hook": "維生素C、E、穀胱甘肽的抗氧化循環網絡",
+          "folder": "32_綜合深度_抗氧化劑協同網絡",
+          "has_content": true
+        },
+        {
+          "episode_number": 33,
+          "title": "礦物質科普：礦物質型態差異",
+          "category": "礦物質科普",
+          "content_type": "科普",
+          "hook": "碳酸鈣、檸檬酸鈣、海藻鈣的吸收率比較",
+          "folder": "33_礦物質科普_礦物質型態差異",
+          "has_content": true
+        },
+        {
+          "episode_number": 34,
+          "title": "維生素科普：天然vs合成維生素",
+          "category": "維生素科普",
+          "content_type": "科普",
+          "hook": "天然食物型態維生素的利用率優勢",
+          "folder": "34_維生素科普_天然vs合成維生素",
+          "has_content": true
+        },
+        {
+          "episode_number": 35,
+          "title": "蛋白質科普：水解胜肽技術",
+          "category": "蛋白質科普",
+          "content_type": "科普",
+          "hook": "膠原蛋白分子大小與吸收率關係",
+          "folder": "35_蛋白質科普_水解胜肽技術",
+          "has_content": true
+        },
+        {
+          "episode_number": 36,
+          "title": "綜合深度：保健品配方邏輯",
+          "category": "綜合深度",
+          "content_type": "深度",
+          "hook": "營養素之間的協同與拮抗作用（如鐵鈣互斥）",
+          "folder": "36_綜合深度_保健品配方邏輯",
+          "has_content": true
+        }
+      ]
+    }
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "title": "礦物質科普：鐵與鈣",
+      "category": "礦物質科普",
+      "content_type": "科普",
+      "hook": "鐵質：氧氣運輸與預防疲倦；鈣質：顧骨本與穩定神經肌肉",
+      "folder": "01_礦物質科普_鐵與鈣",
+      "has_content": true
+    },
+    {
+      "episode_number": 2,
+      "title": "維生素科普：維生素D與葉酸",
+      "category": "維生素科普",
+      "content_type": "科普",
+      "hook": "維生素D：免疫調節與情緒；葉酸：細胞分裂與預防神經管缺陷",
+      "folder": "02_維生素科普_維生素D與葉酸",
+      "has_content": true
+    },
+    {
+      "episode_number": 3,
+      "title": "蛋白質科普：優質蛋白質的隱藏版功效",
+      "category": "蛋白質科普",
+      "content_type": "科普",
+      "hook": "膠原蛋白原料、產後組織修復與肌膚彈性",
+      "folder": "03_蛋白質科普_優質蛋白質的隱藏版功效",
+      "has_content": true
+    },
+    {
+      "episode_number": 4,
+      "title": "礦物質深度：鎂與鋅",
+      "category": "礦物質深度",
+      "content_type": "深度",
+      "hook": "鎂：能量代謝(ATP)與舒緩PMS；鋅：DNA合成、免疫力與荷爾蒙平衡",
+      "folder": "04_礦物質深度_鎂與鋅",
+      "has_content": true
+    },
+    {
+      "episode_number": 5,
+      "title": "礦物質科普：碘與硒",
+      "category": "礦物質科普",
+      "content_type": "科普",
+      "hook": "碘：控制基礎代謝率與胎兒腦部發育；硒：保護甲狀腺免受氧化損傷",
+      "folder": "05_礦物質科普_碘與硒",
+      "has_content": true
+    },
+    {
+      "episode_number": 6,
+      "title": "維生素科普：維生素B群",
+      "category": "維生素科普",
+      "content_type": "科普",
+      "hook": "B6：舒緩PMS與孕吐；B12與B9：紅血球形成與能量轉換",
+      "folder": "06_維生素科普_維生素B群",
+      "has_content": true
+    },
+    {
+      "episode_number": 7,
+      "title": "蛋白質科普：植物性 vs 動物性",
+      "category": "蛋白質科普",
+      "content_type": "科普",
+      "hook": "動物性(完全蛋白質)與植物性(膳食纖維)的優缺點及互補吃法",
+      "folder": "07_蛋白質科普_植物性vs動物性",
+      "has_content": true
+    },
+    {
+      "episode_number": 8,
+      "title": "維生素深度：維生素C與抗氧化",
+      "category": "維生素深度",
+      "content_type": "深度",
+      "hook": "膠原蛋白組裝催化劑、中和自由基(ROS)、促進植物鐵質吸收",
+      "folder": "08_維生素深度_維生素C與抗氧化",
+      "has_content": true
+    },
+    {
+      "episode_number": 9,
+      "title": "礦物質科普：鉀與銅",
+      "category": "礦物質科普",
+      "content_type": "科普",
+      "hook": "鉀：擊退水腫、維持血壓；銅：合成黑色素(防白髮)與膠原蛋白交聯",
+      "folder": "09_礦物質科普_鉀與銅",
+      "has_content": true
+    },
+    {
+      "episode_number": 10,
+      "title": "維生素科普：維生素A與E",
+      "category": "維生素科普",
+      "content_type": "科普",
+      "hook": "維生素A：護眼明目與黏膜健康；維生素E：脂溶性抗老防護罩",
+      "folder": "10_維生素科普_維生素A與E",
+      "has_content": true
+    },
+    {
+      "episode_number": 11,
+      "title": "蛋白質科普：膠原蛋白與彈性蛋白",
+      "category": "蛋白質科普",
+      "content_type": "科普",
+      "hook": "膠原蛋白(鋼筋)的支撐力與彈性蛋白(彈簧)的回彈能力",
+      "folder": "11_蛋白質科普_膠原蛋白與彈性蛋白",
+      "has_content": true
+    },
+    {
+      "episode_number": 12,
+      "title": "蛋白質深度：BCAA支鏈胺基酸",
+      "category": "蛋白質深度",
+      "content_type": "深度",
+      "hook": "啟動肌肉合成(mTOR)、減少肌肉分解、延緩中樞神經疲勞",
+      "folder": "12_蛋白質深度_BCAA支鏈胺基酸",
+      "has_content": true
+    },
+    {
+      "episode_number": 13,
+      "title": "礦物質科普：鈣與鎂黃金比例",
+      "category": "礦物質科普",
+      "content_type": "科普",
+      "hook": "預防孕期抽筋，肌肉收縮(鈣)與放鬆(鎂)的平衡",
+      "folder": "13_礦物質科普_鈣與鎂黃金比例",
+      "has_content": true
+    },
+    {
+      "episode_number": 14,
+      "title": "維生素科普：維生素D與免疫力",
+      "category": "維生素科普",
+      "content_type": "科普",
+      "hook": "啟動免疫細胞，保護母體與胎兒的防護網",
+      "folder": "14_維生素科普_維生素D與免疫力",
+      "has_content": true
+    },
+    {
+      "episode_number": 15,
+      "title": "蛋白質科普：優質蛋白質與孕產",
+      "category": "蛋白質科普",
+      "content_type": "科普",
+      "hook": "產後傷口癒合與哺乳期營養支持",
+      "folder": "15_蛋白質科普_優質蛋白質與孕產",
+      "has_content": true
+    },
+    {
+      "episode_number": 16,
+      "title": "鐵質深度：孕期貧血機制",
+      "category": "鐵質深度",
+      "content_type": "深度",
+      "hook": "血紅素與儲鐵蛋白(鐵蛋白)的差異解析",
+      "folder": "16_鐵質深度_孕期貧血機制",
+      "has_content": true
+    },
+    {
+      "episode_number": 17,
+      "title": "礦物質科普：鋅與女性護理",
+      "category": "礦物質科普",
+      "content_type": "科普",
+      "hook": "強化黏膜免疫力，經後補鐵與私護健康",
+      "folder": "17_礦物質科普_鋅與女性護理",
+      "has_content": true
+    },
+    {
+      "episode_number": 18,
+      "title": "維生素科普：維生素E與抗老",
+      "category": "維生素科普",
+      "content_type": "科普",
+      "hook": "保護細胞膜的脂溶性抗老保鑣",
+      "folder": "18_維生素科普_維生素E與抗老",
+      "has_content": true
+    },
+    {
+      "episode_number": 19,
+      "title": "蛋白質科普：大豆異黃酮",
+      "category": "蛋白質科普",
+      "content_type": "科普",
+      "hook": "植物性雌激素溫和調節生理機能",
+      "folder": "19_蛋白質科普_大豆異黃酮",
+      "has_content": true
+    },
+    {
+      "episode_number": 20,
+      "title": "維生素深度：B群能量代謝",
+      "category": "維生素深度",
+      "content_type": "深度",
+      "hook": "粒線體與B群的ATP能量轉換機制",
+      "folder": "20_維生素深度_B群能量代謝",
+      "has_content": true
+    },
+    {
+      "episode_number": 21,
+      "title": "礦物質科普：鈣與鎂的神經穩定機制",
+      "category": "礦物質科普",
+      "content_type": "科普",
+      "hook": "天然鎮定劑，改善睡眠與舒緩焦慮",
+      "folder": "21_礦物質科普_鎂與神經放鬆",
+      "has_content": true
+    },
+    {
+      "episode_number": 22,
+      "title": "維生素科普：維生素B6與經前情緒",
+      "category": "維生素科普",
+      "content_type": "科普",
+      "hook": "幫助大腦合成快樂荷爾蒙，舒緩PMS",
+      "folder": "22_維生素科普_維生素B6與血清素",
+      "has_content": true
+    },
+    {
+      "episode_number": 23,
+      "title": "蛋白質科普：色胺酸與褪黑激素",
+      "category": "蛋白質科普",
+      "content_type": "科普",
+      "hook": "助眠胺基酸轉換過程",
+      "folder": "23_蛋白質科普_色胺酸與褪黑激素",
+      "has_content": true
+    },
+    {
+      "episode_number": 24,
+      "title": "礦物質深度：鈣鎂平衡與神經傳導",
+      "category": "礦物質深度",
+      "content_type": "深度",
+      "hook": "細胞內外鈣鎂離子通道的運作機制",
+      "folder": "24_礦物質深度_鈣鎂平衡與神經傳導",
+      "has_content": true
+    },
+    {
+      "episode_number": 25,
+      "title": "礦物質科普：鐵質吸收阻礙",
+      "category": "礦物質科普",
+      "content_type": "科普",
+      "hook": "茶、咖啡與植酸如何影響礦物質吸收",
+      "folder": "25_礦物質科普_鐵質吸收阻礙",
+      "has_content": true
+    },
+    {
+      "episode_number": 26,
+      "title": "維生素科普：維生素D與腸道屏障",
+      "category": "維生素科普",
+      "content_type": "科普",
+      "hook": "維持腸道黏膜完整性，防護腸漏症",
+      "folder": "26_維生素科普_維生素D與腸道屏障",
+      "has_content": true
+    },
+    {
+      "episode_number": 27,
+      "title": "蛋白質科普：麩醯胺酸與腸道",
+      "category": "蛋白質科普",
+      "content_type": "科普",
+      "hook": "修復腸道黏膜的超級胺基酸",
+      "folder": "27_蛋白質科普_麩醯胺酸與腸道",
+      "has_content": true
+    },
+    {
+      "episode_number": 28,
+      "title": "綜合深度：微脂體與吸收技術",
+      "category": "綜合深度",
+      "content_type": "深度",
+      "hook": "提高脂溶性維生素吸收率的包覆技術",
+      "folder": "28_綜合深度_微脂體與吸收技術",
+      "has_content": true
+    },
+    {
+      "episode_number": 29,
+      "title": "礦物質科普：鋅與抗發炎",
+      "category": "礦物質科普",
+      "content_type": "科普",
+      "hook": "調節免疫細胞，降低體內慢性發炎",
+      "folder": "29_礦物質科普_鋅與抗發炎",
+      "has_content": true
+    },
+    {
+      "episode_number": 30,
+      "title": "維生素科普：維生素C與組織胺",
+      "category": "維生素科普",
+      "content_type": "科普",
+      "hook": "加速組織胺代謝，舒緩過敏反應",
+      "folder": "30_維生素科普_維生素C與組織胺",
+      "has_content": true
+    },
+    {
+      "episode_number": 31,
+      "title": "蛋白質科普：Omega-3與優質蛋白",
+      "category": "蛋白質科普",
+      "content_type": "科普",
+      "hook": "深海魚類蛋白質與好油的抗發炎協同效應",
+      "folder": "31_蛋白質科普_Omega-3與優質蛋白",
+      "has_content": true
+    },
+    {
+      "episode_number": 32,
+      "title": "綜合深度：抗氧化劑協同網絡",
+      "category": "綜合深度",
+      "content_type": "深度",
+      "hook": "維生素C、E、穀胱甘肽的抗氧化循環網絡",
+      "folder": "32_綜合深度_抗氧化劑協同網絡",
+      "has_content": true
+    },
+    {
+      "episode_number": 33,
+      "title": "礦物質科普：礦物質型態差異",
+      "category": "礦物質科普",
+      "content_type": "科普",
+      "hook": "碳酸鈣、檸檬酸鈣、海藻鈣的吸收率比較",
+      "folder": "33_礦物質科普_礦物質型態差異",
+      "has_content": true
+    },
+    {
+      "episode_number": 34,
+      "title": "維生素科普：天然vs合成維生素",
+      "category": "維生素科普",
+      "content_type": "科普",
+      "hook": "天然食物型態維生素的利用率優勢",
+      "folder": "34_維生素科普_天然vs合成維生素",
+      "has_content": true
+    },
+    {
+      "episode_number": 35,
+      "title": "蛋白質科普：水解胜肽技術",
+      "category": "蛋白質科普",
+      "content_type": "科普",
+      "hook": "膠原蛋白分子大小與吸收率關係",
+      "folder": "35_蛋白質科普_水解胜肽技術",
+      "has_content": true
+    },
+    {
+      "episode_number": 36,
+      "title": "綜合深度：保健品配方邏輯",
+      "category": "綜合深度",
+      "content_type": "深度",
+      "hook": "營養素之間的協同與拮抗作用（如鐵鈣互斥）",
+      "folder": "36_綜合深度_保健品配方邏輯",
+      "has_content": true
+    }
+  ]
+}
