@@ -10,26 +10,36 @@
 iTrust_Repo/
 ├── README.md                  # 本說明文件
 ├── index.json                 # 全庫索引（包含 36 期總覽與中繼資料）
-├── docs/                      # 原始規劃文件（種草規劃、文案總覽等）
+├── docs/                      # 跨期策略規劃文件（種草規劃、內容規劃總覽、戰略藍圖）
 │   ├── P01-04_種草規劃.docx
 │   ├── P05-08_種草規劃.docx
+│   ├── P13-36_中長期戰略藍圖.docx
+│   ├── P21-24_內容規劃總覽.docx
 │   ├── ...
-│   └── P13-36_中長期戰略藍圖.docx
-└── episodes/                  # 36 期內容（圖卡與文案集中存放）
+│   └── archive/                # 已拆解為單期文件的舊版彙總文案（歷史留存，不再維護）
+│       ├── P05-08_完整文案總覽.docx
+│       ├── P09-12_完整文案總覽.docx
+│       ├── P13-16_完整文案總覽.docx
+│       └── P17-20_完整文案總覽.docx
+└── episodes/                  # 36 期內容（圖卡、文案與原始草稿集中存放）
     ├── 01_礦物質科普_鐵與鈣/
     │   ├── images/            # 本期圖卡（封面、內容卡2、內容卡3）
     │   │   ├── card1_cover.jpg
     │   │   ├── card2_iron.jpg
     │   │   └── card3_calcium.jpg
     │   └── article.json       # 本期結構化文案（FB長文、IG短文、Hashtag）
-    ├── 02_維生素科普_維生素D與葉酸/
+    ├── 05_礦物質科普_碘與硒/
     │   ├── images/
-    │   └── article.json
+    │   ├── article.json
+    │   └── P05_完整文案.docx  # 本期原始 Word 草稿（單期拆解版，供與 article.json 勾稽比對）
     └── ... (至 36_綜合深度_保健品配方邏輯)
 ```
 
+### 原始文案草稿與單期拆解說明
+第5-20期原先以 4 期一份的「完整文案總覽.docx」彙總存放（如 P05-08、P17-20），逐期核對時容易因彙總文件跨期而遺漏錯誤（例如第17期標題與內文主題不符的問題即由此而生）。現已將這幾份彙總文件拆解為單期 Word 檔（`P05_完整文案.docx` ~ `P20_完整文案.docx`），並各自搬移至對應的 `episodes/<期數>/` 資料夾內，與該期的 `images/` 與 `article.json` 並列，方便日後逐期勾稽。原始彙總版本移至 `docs/archive/` 保留歷史紀錄，不再作為維護依據。跨期的策略／排程規劃文件（種草規劃、內容規劃總覽、中長期戰略藍圖）維持原樣留在 `docs/`。
+
 ### 系統串接說明
-`index.json` 包含了所有期數的中繼資料，可用於前端快速載入文章列表。每期的 `article.json` 包含完整的 FB 長文、IG 短文與相對路徑的圖片連結，可直接將內容串接至 App 或 LINE 官方帳號。
+`index.json` 包含了所有期數的中繼資料，可用於前端快速載入文章列表。每期的 `article.json` 包含完整的 FB 長文、IG 短文與相對路徑的圖片連結，可直接將內容串接至 App 或 LINE 官方帳號。`article.json` 為系統串接與勾稽的唯一結構化來源；同資料夾內的 `.docx`（如有）僅為原始撰寫草稿，供人工比對參考。
 
 ### 36期內容規劃總覽
 
@@ -60,7 +70,7 @@ iTrust_Repo/
 | **第14期** | 維生素科普：維生素D與免疫力 | 科普 | 啟動免疫細胞，保護母體與胎兒的防護網 | `card1_cover`<br>`card2_immune`<br>`card3_pregnancy` |
 | **第15期** | 蛋白質科普：優質蛋白質與孕產 | 科普 | 產後傷口癒合與哺乳期營養支持 | `card1_cover`<br>`card2_wound_healing`<br>`card3_breastmilk` |
 | **第16期** | 鐵質深度：孕期貧血機制 | 深度 | 血紅素與儲鐵蛋白(鐵蛋白)的差異解析 | `card1_cover`<br>`card2_hemoglobin_ferritin`<br>`card3_iron_tips` |
-| **第17期** | 礦物質科普：鋅與女性護理 | 科普 | 強化黏膜免疫力，經後補鐵與私護健康 | `card1_cover`<br>`card2_iron_immunity`<br>`card3_iron_timing` |
+| **第17期** | 礦物質科普：鐵與女性護理 | 科普 | 強化黏膜免疫力，經後補鐵與私護健康 | `card1_cover`<br>`card2_iron_immunity`<br>`card3_iron_timing` |
 | **第18期** | 維生素科普：維生素E與抗老 | 科普 | 保護細胞膜的脂溶性抗老保鑣 | `card1_cover`<br>`card2_cell_protection`<br>`card3_antioxidant_network` |
 | **第19期** | 蛋白質科普：大豆異黃酮 | 科普 | 植物性雌激素溫和調節生理機能 | `card1_cover`<br>`card2_isoflavone_mechanism`<br>`card3_soy_foods` |
 | **第20期** | 維生素深度：B群能量代謝 | 深度 | 粒線體與B群的ATP能量轉換機制 | `card1_cover`<br>`card2_mitochondria`<br>`card3_B_vitamins_food` |
