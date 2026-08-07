@@ -60,7 +60,7 @@ iTrust_Repo/
 | **第14期** | 維生素科普：維生素D與免疫力 | 科普 | 啟動免疫細胞，保護母體與胎兒的防護網 | `card1_cover`<br>`card2_immune`<br>`card3_pregnancy` |
 | **第15期** | 蛋白質科普：優質蛋白質與孕產 | 科普 | 產後傷口癒合與哺乳期營養支持 | `card1_cover`<br>`card2_wound_healing`<br>`card3_breastmilk` |
 | **第16期** | 鐵質深度：孕期貧血機制 | 深度 | 血紅素與儲鐵蛋白(鐵蛋白)的差異解析 | `card1_cover`<br>`card2_hemoglobin_ferritin`<br>`card3_iron_tips` |
-| **第17期** | 礦物質科普：鋅與女性護理 | 科普 | 強化黏膜免疫力，經後補鐵與私護健康 | `card1_cover`<br>`card2_iron_immunity`<br>`card3_iron_timing` |
+| **第17期** | 礦物質科普：鐵與女性護理 | 科普 | 強化黏膜免疫力，經後補鐵與私護健康 | `card1_cover`<br>`card2_iron_immunity`<br>`card3_iron_timing` |
 | **第18期** | 維生素科普：維生素E與抗老 | 科普 | 保護細胞膜的脂溶性抗老保鑣 | `card1_cover`<br>`card2_cell_protection`<br>`card3_antioxidant_network` |
 | **第19期** | 蛋白質科普：大豆異黃酮 | 科普 | 植物性雌激素溫和調節生理機能 | `card1_cover`<br>`card2_isoflavone_mechanism`<br>`card3_soy_foods` |
 | **第20期** | 維生素深度：B群能量代謝 | 深度 | 粒線體與B群的ATP能量轉換機制 | `card1_cover`<br>`card2_mitochondria`<br>`card3_B_vitamins_food` |
